@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="Título">Bienvenido!!</string>
-    <string name="Login">Ingresa tu usuario por favor</string>
+    <string name="Login">Ingresar</string>
 </resources>
